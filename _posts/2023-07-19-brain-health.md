@@ -76,11 +76,11 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
   <summary style="font-size:24px;font-weight:800"> References 
   
   </summary>
-<ol> 
-   <li>Wang Y, Pan Y, Li H. What is brain health and why is it important? BMJ 2020; 371 :m3683 doi:10.1136/bmj.m3683<li/>
-  2. Kim, M., & Park, J. M. (2017). Factors affecting cognitive function according to gender in community-dwelling elderly individuals. Epidemiology and health, 39, e2017054. https://doi.org/10.4178/epih.e201705
-  3. Li, W., Wang, T., & Xiao, S. (2016). Type 2 diabetes mellitus might be a risk factor for mild cognitive impairment progressing to Alzheimer's disease. Neuropsychiatric disease and treatment, 12, 2489–2495. https://doi.org/10.2147/NDT.S111298
-  4. Kim, E. J. (2010). Factors influencing cognitive impairment of the elderly residents. Journal of East-West Nursing Research, 16(2), 122-130.
+<ol>
+  <li>Wang Y, Pan Y, Li H. What is brain health and why is it important? BMJ 2020; 371 :m3683 doi:10.1136/bmj.m3683</li>
+  <li>Kim, M., & Park, J. M. (2017). Factors affecting cognitive function according to gender in community-dwelling elderly individuals. Epidemiology and health, 39, e2017054. https://doi.org/10.4178/epih.e201705</li>
+  <li>Li, W., Wang, T., & Xiao, S. (2016). Type 2 diabetes mellitus might be a risk factor for mild cognitive impairment progressing to Alzheimer's disease. Neuropsychiatric disease and treatment, 12, 2489–2495. https://doi.org/10.2147/NDT.S111298</li>
+  <li>Kim, E. J. (2010). Factors influencing cognitive impairment of the elderly residents. Journal of East-West Nursing Research, 16(2), 122-130</li>
   5. Park, H. K., & Song, H. J. (2016). Predictors of cognitive function decline of elderly: using living conditions and welfare needs of older Korean persons panel data. The Korean Journal of Health Service Management, 10(3), 147-158.
   6. Lin JS, O'Connor E, Rossom RC, et al. Screening for Cognitive Impairment in Older Adults: An Evidence Update for the U.S. Preventive Services Task Force [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); 2013 Nov. (Evidence Syntheses, No. 107.) Available from: https://www.ncbi.nlm.nih.gov/books/NBK174643/
   7. Park, J. S., Lee, Y. W., & Kim, H. S. (2015). Cognitive impairment risk factors in elders. Journal of Korean Gerontological Nursing, 17(3), 121-130.
