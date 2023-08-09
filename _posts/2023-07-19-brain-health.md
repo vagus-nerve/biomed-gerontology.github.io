@@ -128,7 +128,7 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
   50. Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
   51. Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
   52. Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
-  53. Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
+  53. Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24.
 
 </details>
 
