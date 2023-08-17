@@ -53,7 +53,7 @@ Although nuts are high in calories, fibers, and fats, nut consumption is not con
 
 ### Beverages
 
-<img src="/images/matcha-5x1.jpg" alt="alternatetext" style="width:100%"> 
+<img src="/images/matcha-5x1.png" alt="alternatetext" style="width:100%"> 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?widget=true&amp;headers=false" style="height:266px;width:100%;frameborder:0px;transparency=true"></iframe>
 
