@@ -59,15 +59,13 @@ By adulthood, the human body on average contains about 100 000 kilometers of blo
 
 ## [Take care of oral health](#take-care-of-oral-health)
 
-Oral bacteria may cause systemic infections, e.g., endocarditis, and then indirectly initiate brain abscesses.
-
-Epidemiological studies indicate that poor oral health, specifically periodontitis and tooth loss, is associated with an increased likelihood of experiencing cognitive decline and dementia. 
+Epidemiological studies indicate that periodontitis and tooth loss are associated with an increased likelihood of experiencing cognitive decline and dementia. <a href= “#link46-48”> 46-48</a>
 
 [Asher S, Stephen R, Mäntylä P, Suominen AL, Solomon A. Periodontal health, cognitive decline, and dementia: A systematic review and meta-analysis of longitudinal studies. J Am Geriatr Soc. 2022;70(9):2695–2709. doi: 10.1111/jgs.17978]
 [Chen, CK., Wu, YT. & Chang, YC. Association between chronic periodontitis and the risk of Alzheimer’s disease: a retrospective, population-based, matched-cohort study. Alz Res Therapy 9, 56 (2017). https://doi.org/10.1186/s13195-017-0282-6]
 [li Fang W, jun Jiang M, bei Gu B, et al. Tooth loss as a risk factor for dementia: systematic review and meta-analysis of 21 observational studies. BMC Psychiatry. 2018;18(1):345. doi: 10.1186/s12888-018-1927-0]
 
-Additionally, tooth loss and periodontitis have been found to be the risk factors for stroke.
+Furthermore, tooth loss is considered a risk factor for ischemic stroke due to the chronic inflammation it can cause.
 
 [Fagundes NCF, Almeida APCPSC, Vilhena KFB, Magno MB, Maia LC, Lima RR. Periodontitis As A Risk Factor For Stroke: A Systematic Review And Meta-Analysis. Vasc Health Risk Manag. 2019;15:519–532. doi: 10.2147/VHRM.S204097]
 [Cheng F, Zhang M, Wang Q, et al. Tooth loss and risk of cardiovascular disease and stroke: A dose-response meta analysis of prospective cohort studies. PLoS ONE. 2018;13(3):e0194563. doi: 10.1371/journal.pone.0194563]
