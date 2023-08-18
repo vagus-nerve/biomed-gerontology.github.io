@@ -15,7 +15,7 @@ layout: post
 
 ### Vegetables
 
-<img src="/images/broccoli-5x1.png" alt="alternatetext" style="width:100%"> 
+<img src="/images/broccoli-5x1.png" alt="alternatetext" style="width:125%"> 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=1024721634&amp;single=true&amp;widget=true&amp;headers=false" style="height:232px;width:100%;frameborder:0px;transparency=true" ></iframe>
 
