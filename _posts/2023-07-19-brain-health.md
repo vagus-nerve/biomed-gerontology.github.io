@@ -3,6 +3,8 @@ layout: post
 ---
 <p style="font-weight: 500"> Brain health refers to the preservation of brain integrity and cognitive function <sup>[1]</sup>. Because brain health does not depend on a single factor <sup>[2-7]</sup>, the multi-model approach to maintaining brain health is proposed.</p>
 
+<img src="/images/biological-clock.png" alt="alternatetext" style="width:100%"> 
+
 ## Contents
 - [Avoid head injuries](#avoid-head-injuries)
 - [Improve your sleep hygiene](#improve-your-sleep-hygiene)
@@ -16,7 +18,7 @@ layout: post
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
-Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression <sup href="#8">[8]</sup>. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury <sup>[9]</sup>.
+Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression <sup>[8]</sup>. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury <sup>[9]</sup>.
 
 
 ## [Improve your sleep hygiene](#improve-your-sleep-hygiene)
@@ -24,7 +26,6 @@ Although the human brain is the best-protected organ in the human body, the brai
 The suprachiasmatic nucleus (SCN) of the hypothalamus is a bilateral structure containing 20,000 neurons that generate circadian rhythms, i.e. synchronizes the mammalian body's cycles of alertness and sleepiness to the external 24-hour light-dark cycle <sup>[10-11]</sup>. If these neurons are weakly coupled, the circadian rhythm of the SCN is weakened, and vice versa. Circadian rhythms rely upon circadian time cues (zeitgebers), such as light, eating, or drinking patterns, so the individual can be appropriately oriented to the environment and use the least amount of energy. Melatonin secretion also serves as a zeitgeber and promotes sleep anticipation in the brain default mode network. The daily rhythm of plasma melatonin concentrations peaks between 2 and 4 a.m., and gradually falls during the second half of the night <sup>[12]</sup>.
 
 
-<img src="/images/biological-clock.png" alt="alternatetext" style="width:100%"> 
 
 #### Recommendations
 -   Go outside for 10 minutes after you wake up <sup>[13]</sup>.
