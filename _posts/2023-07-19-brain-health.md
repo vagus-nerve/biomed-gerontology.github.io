@@ -86,6 +86,7 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
 #### Recommendations
 -   Get a personal "Not to-do list".
 -   Practice a foreign or a programming language.
+-   Avoid direct sun exposure.
 
 <details>
   <summary style="font-size:24px;font-weight:800"> References 
