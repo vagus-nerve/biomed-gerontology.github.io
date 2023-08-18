@@ -16,7 +16,7 @@ layout: post
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
-Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression <sup>[8]</sup>. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury <sup>[9]</sup>.
+Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression <sup href="#8">[8]</sup>. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury <sup>[9]</sup>.
 
 
 ## [Improve your sleep hygiene](#improve-your-sleep-hygiene)
