@@ -25,8 +25,6 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 The suprachiasmatic nucleus (SCN) of the hypothalamus is a bilateral structure containing 20,000 neurons that generate circadian rhythms, i.e. synchronizes the mammalian body's cycles of alertness and sleepiness to the external 24-hour light-dark cycle <sup>[10-11]</sup>. If these neurons are weakly coupled, the circadian rhythm of the SCN is weakened, and vice versa. Circadian rhythms rely upon circadian time cues (zeitgebers), such as light, eating, or drinking patterns, so the individual can be appropriately oriented to the environment and use the least amount of energy. Melatonin secretion also serves as a zeitgeber and promotes sleep anticipation in the brain default mode network. The daily rhythm of plasma melatonin concentrations peaks between 2 and 4 a.m., and gradually falls during the second half of the night <sup>[12]</sup>.
 
-
-
 #### Recommendations
 -   Go outside for 10 minutes after you wake up <sup>[13]</sup>.
 -   Aim for a minimum of 7 hours of sleep regularly <sup>[14]</sup>.
@@ -87,7 +85,7 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
 #### Recommendations
 -   Get a personal "Not to-do list".
 -   Practice a foreign or a programming language.
--   Avoid direct sun exposure.
+-   Avoid overheating under sun <sup>[54]</sup>.
 
 <details>
   <summary style="font-size:24px;font-weight:800"> References 
@@ -148,6 +146,7 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
 	<li>Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389&ndash;93.</li>
 	<li>Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.</li>
 	<li>Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317&ndash;24.</li>
+	<li>Cedeño Laurent, J. G., Williams, A., Oulhote, Y., Zanobetti, A., Allen, J. G., & Spengler, J. D. (2018). Reduced cognitive function during a heat wave among residents of non-air-conditioned buildings: An observational study of young adults in the summer of 2016. PLoS medicine, 15(7), e1002605.</li>
 </ol>
 
 
