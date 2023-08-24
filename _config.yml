@@ -1,11 +1,11 @@
-title: false
+title: Biomedical Gerontoly
 author: Vagus Nerve
 description: > # description of the site (multiple lines allowed)
 url: https://vagus-nerve.github.io/ # root address of the site
 
 permalink: /:slug
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "./favicon.png" # relative path to site's favicon
 
 twitter:
     username: abhinav # update or delete this
@@ -15,8 +15,7 @@ twitter:
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: "go back.." # customize text for homepage link in post layout
-  appearance_toggle: true # if appearance can be switched by user
+  back_home_text: "BACK" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
