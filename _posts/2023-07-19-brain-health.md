@@ -3,8 +3,6 @@ layout: post
 ---
 <p style="font-weight: 500"> Brain health refers to the preservation of brain integrity and cognitive function <sup>[1]</sup>. Because brain health does not depend on a single factor <sup>[2-7]</sup>, the multi-model approach to maintaining brain health is proposed.</p>
 
-<img src="/images/biological-clock.png" alt="alternatetext" style="width:100%"> 
-
 ## Contents
 - [Avoid head injuries](#avoid-head-injuries)
 - [Improve your sleep hygiene](#improve-your-sleep-hygiene)
